@@ -1,2 +1,1 @@
-console.log("a")
-'aaaa'
+console.log('aaa')
